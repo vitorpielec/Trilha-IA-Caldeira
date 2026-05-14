@@ -1,4 +1,4 @@
-# Trilha-IA-Caldeira 🚀
+# Trilha-IA-Cald
 
 Repositório de projetos e anotações desenvolvidos durante o programa **Geração Caldeira 2026** na trilha de **IA e Dados**, em parceria com a Alura.
 
