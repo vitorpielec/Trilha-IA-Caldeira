@@ -12,7 +12,28 @@ O Geração Caldeira é um programa do Instituto Caldeira para preparar jovens p
 - Projetos com APIs de IA (OpenAI, Gemini)
 
 ## Tecnologias
-Python • n8n • Git/GitHub • SQL
+Python • n8n • Git • GitHub • SQL
 
 ## Autor
-**Vítor Pielechovski** — Estudande de IA e Dados pelo Grupo Caldeira!
+**Vítor Pielechovski** — Estudande de IA e Dados | Geração Caldeira 2026
+
+---
+
+## Trilha-IA-Caldeira 🚀
+
+Repository of projects and notes developed during the **Geração Caldeira 2026** program, in the **AI and Data** track, in partnership with Alura.
+
+## About the program
+Geração Caldeira (Caldeira Generation) is a program by Instituto Caldeira to prepare young people for the tech market. This track covers Python, automation, artificial intelligence and data analysis.
+
+## What you'll find here
+- Practical Python exercises and projects
+- Automations with n8n and AI
+- Data analysis with Pandas and NumPy
+- Projects using AI APIs (OpenAI, Gemini)
+
+## Technologies
+Python • n8n • Git • GitHub • SQL
+
+## Author
+**Vítor Pielechovski** — AI and Data Student | Geração Caldeira 2026
